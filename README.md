@@ -1,1 +1,3 @@
-# email-client
+# emailClient
+
+Python script to send email.
